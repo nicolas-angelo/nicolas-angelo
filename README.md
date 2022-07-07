@@ -7,20 +7,15 @@
 <br />
 🥊 Amateur Shadow Boxer (shoutout to OutBox NYC)
 <br />
-💊 Biohacker (ask me about my nootropic stack for  <em>zen mode flow state</em>)
-<br />
-🙏🏽 Buddhist (studying the Lotus Sutra for 7 years)
+💊 Biohacker (ask me about my nootropic stacks)
 
 
 ## About
 
 Heyo! I'm Nicolas, a 31 y/o self taught developer based in NYC.
 
-I'm super passionate about building developer tools:
-<br />
-<em>Libraries, CLIs, extensions, plugins and starter templates.</em>
-
-Recently I've taken interest in patterns, workspaces in monorepos and computing at the edge. 
+I'm super passionate about Developer Relations and Developer Experience. 
+Recently I've taken interest in patterns, monorepos and computing at the edge. 
 <br />
 When I'm not coding, I'm boxing, playing destiny, or perfecting my signature iced matcha.
 
