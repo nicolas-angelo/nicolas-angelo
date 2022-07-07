@@ -17,7 +17,6 @@ Heyo! I'm Nicolas, a 31 y/o self taught developer based in NYC.
 I'm super passionate about Developer Relations and Developer Experience. 
 Recently I've taken interest in patterns, monorepos and computing at the edge. 
 <br />
-When I'm not coding, I'm boxing, playing destiny, or perfecting my signature iced matcha.
 
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,postgres,graphql,figma&perline=4)](https://skillicons.dev)
