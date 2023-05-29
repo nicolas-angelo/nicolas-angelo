@@ -22,11 +22,22 @@ Recently I've taken interest in Web3/decentralized technologies and predictive A
 Fintech • Web3 • DeFi • DAOs • AI 
 <br />
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,solidity,postgres,graphql,figma&perline=5)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,solidity&perline=3)](https://skillicons.dev)
 
-### Favorite Frameworks & Tools
-[![Favorites](https://skillicons.dev/icons?i=vercel,nextjs,prisma,apollo,tailwind,express&perline=6)](https://skillicons.dev)
+### Front End
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,html,css&perline=6)](https://skillicons.dev)
+
+### Backend End
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,graphql,apollo,prisma&perline=6)](https://skillicons.dev)
+
+### Web3 & Blockchain
+![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### Hosting & BaaS
+[![Favorites](https://skillicons.dev/icons?i=vercel,netlify,firebase&perline=3)](https://skillicons.dev)
 
 ---
 
