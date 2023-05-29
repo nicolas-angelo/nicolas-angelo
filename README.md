@@ -1,15 +1,5 @@
 ![a building](https://github.com/nicolas-angelo/nicolas-angelo/raw/main/nicolas-angelo.jpg)
 
-## At a Glance
-💻 Former Community Engineer at [Memberstack](https://www.memberstack.com/for/developers)
-<br />
-🏳️‍⚧️ Transgender and proud (he/him)
-<br />
-🥊 Amateur Shadow Boxer (shoutout to OutBox NYC)
-<br />
-💊 Biohacker (ask me about my nootropic stacks)
-
-
 ## About
 
 Heyo! I'm Nicolas, a 32 y/o self taught developer building rad stuff in NYC.
