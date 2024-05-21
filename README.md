@@ -6,10 +6,10 @@ Heyo! I'm Nicolas, a 33 y/o self taught developer in NYC.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,solidity&perline=3)](https://skillicons.dev)
 
-### Front End
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,html,css&perline=6)](https://skillicons.dev)
 
-### Backend End
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=bun,nodejs,express,postgres,graphql,prisma&perline=6)](https://skillicons.dev)
 
 ### Web3 & Blockchain
