@@ -5,7 +5,7 @@ Heyo! I'm Nicolas, a 34 y/o software engineer in NYC.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,solidity&perline=3)](https://skillicons.dev)
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,vue,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript&perline=6)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=bun,nodejs,express,postgres,graphql,prisma&perline=6)](https://skillicons.dev)
