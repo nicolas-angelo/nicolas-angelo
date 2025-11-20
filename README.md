@@ -1,8 +1,6 @@
-![a building](https://github.com/nicolas-angelo/nicolas-angelo/raw/main/nicolas-angelo.jpg)
-
 ## About
 
-Heyo! I'm Nicolas, a 33 y/o self taught developer in NYC.
+Heyo! I'm Nicolas, a 34 y/o software engineer in NYC.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,solidity&perline=3)](https://skillicons.dev)
 
@@ -17,6 +15,3 @@ Heyo! I'm Nicolas, a 33 y/o self taught developer in NYC.
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
-
-### ✍🏽 Blog Posts
-[Lessons Learned: The Perfect Auth Solution Does Not Exist](https://www.memberstack.com/blog/perfect-authentication-solution)
